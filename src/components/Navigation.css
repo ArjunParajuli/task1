@@ -1,0 +1,24 @@
+.inp{
+  border-right: 0;
+}
+
+.purple{
+  color: #8064A2;
+  font-weight: 900;
+}
+
+.search-btn{
+  border: 1px solid #8064A2 !important;
+  background-color: #8064A2 !important;
+}
+
+.btn-sign-in{
+  color: #8064A2 !important;
+  border: 1px solid #8064A2 !important;
+  background-color: white !important;
+}
+
+.btn-sign-in:hover{
+  color: white !important;
+  background-color: #8064A2 !important;
+}

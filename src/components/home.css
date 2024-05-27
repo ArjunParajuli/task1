@@ -1,0 +1,82 @@
+.home-div{
+    margin-top: 5rem;
+    background-color: #F7F5F9;
+    width: 100vw;
+}
+
+.signin-g-f-btn{
+    background-color: #fff !important;
+    color: #000 !important;
+    border: 1px solid #8064A2 !important;
+}
+
+.signin-btn{
+    color: black !important;
+    background-color: transparent !important;
+    border-radius: 8px;
+    border: 1px solid #8064A2;
+    padding: 5px 10px;
+}
+
+.joinin-btn{
+    color: white !important;
+    background-color: #8064A2 !important;
+    border-radius: 8px;
+    border: 1px solid #8064A2;
+    padding: 5px 10px;
+}
+
+.grp-heading{
+    font-family: italic;
+}
+
+.grp-head-span{
+    color: #0096C8;
+}
+
+.grp-head-span2{
+    color: #8064A2;
+}
+
+.active{
+    border-bottom: 3px solid #8064A2 !important;
+    color: #8064A2 !important;
+}
+
+.sign-in-p{
+    cursor: pointer;
+    color: #939CA3;
+    background-color: #F7F5F9;
+}
+
+.tnc{
+    font-size: small;
+    text-align: center;
+}
+
+.btn-feature1{
+    color: #8064A2 !important;
+    border: 1px solid #8064A2 !important;
+    background-color: white !important;
+  }
+  
+  .btn-feature1:hover{
+    color: white !important;
+    background-color: #8064A2 !important;
+  }
+
+  .testimonial-div{
+    background-color: #F7F5F9 !important;
+  }
+
+  .testimonial-h5{
+    color: #8064A2;
+  }
+
+  .testimonial-small{
+    color: #0096C8 !important;
+  }
+
+ audio::-webkit-media-controls-panel {
+    background-color: #CCC1DA;
+  }
